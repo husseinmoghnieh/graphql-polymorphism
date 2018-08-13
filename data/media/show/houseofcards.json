@@ -1,0 +1,27 @@
+{
+  "id": "media/show/houseofcards",
+  "title": "House of Cards",
+  "premier": "February 1, 2013",
+  "seasons": 5,
+  "episodes": 65,
+  "links": [
+    {
+      "relationship": "distributed by",
+      "target": "entity/company/netflix"
+    },
+
+    {
+      "relationship": "produced by",
+      "target": "entity/person/kevinspacey"
+    },
+    {
+      "relationship": "produced by",
+      "target": "entity/person/kevinspacey"
+    },
+
+    {
+      "relationship": "produced by",
+      "target": "entity/company/mediarightscapital"
+    }
+  ]
+}

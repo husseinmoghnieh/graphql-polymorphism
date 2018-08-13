@@ -1,0 +1,17 @@
+{
+  "id": "entity/person/kevinspacey",
+  "name": "Kevin Spacey",
+  "yearsActive" : "1981–present",
+  "dob" : "July 26, 1959",
+  "type": "person",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/show/houseofcards"
+    },
+    {
+      "relationship": "starring",
+      "target": "media/show/houseofcards"
+    }
+  ]
+}

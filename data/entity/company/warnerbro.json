@@ -1,0 +1,18 @@
+{
+  "id": "entity/company/warnerbro",
+  "companyName": "Warner Bros.",
+  "founded" : 1923,
+  "type": "company",
+  "links": [
+    {
+      "relationship": "distributed",
+      "target": "media/movie/ocean11"
+    },
+    {
+      "relationship": "produced",
+      "target": "media/movie/troy"
+    }
+  ]
+}
+
+

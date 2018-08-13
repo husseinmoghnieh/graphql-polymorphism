@@ -1,0 +1,12 @@
+{
+  "id": "entity/company/villageroadshow",
+  "companyName": "Village Roadshow Pictures",
+  "founded" : 1986,
+  "type": "company",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/show/ocean11"
+    }
+  ]
+}

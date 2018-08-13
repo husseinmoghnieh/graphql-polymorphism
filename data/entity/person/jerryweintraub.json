@@ -1,0 +1,13 @@
+{
+  "id": "entity/person/jerryweintraub",
+  "name": "Jerry Weintraub",
+  "yearsActive" : "1974-2015",
+  "dob": "September 26, 1937",
+  "type": "person",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/movie/ocean11"
+    }
+  ]
+}

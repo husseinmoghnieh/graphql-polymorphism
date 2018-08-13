@@ -1,0 +1,1 @@
+service: gunicorn -b 0.0.0.0:80 -w 8 -t 120 app:graphql_app --log-config ./gunicorn-logging.conf

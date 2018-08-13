@@ -1,0 +1,24 @@
+{
+  "id": "media/movie/troy",
+  "title": "Troy",
+  "premier": "May 14, 2004",
+  "sequel" : "1/1",
+  "links": [
+    {
+      "relationship": "produced by",
+      "target": "entity/person/WolfgangPetersen"
+    },
+    {
+      "relationship": "produced by",
+      "target": "entity/company/PlanB"
+    },
+    {
+      "relationship": "produced by",
+      "target": "entity/company/WarnerBro"
+    },
+    {
+      "relationship": "starred",
+      "target": "entity/person/BradPitt"
+    }
+  ]
+}

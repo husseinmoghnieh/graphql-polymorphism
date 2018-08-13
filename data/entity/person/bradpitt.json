@@ -1,0 +1,18 @@
+{
+  "id": "entity/person/bradpitt",
+  "name": "Brad Pitt",
+  "dob": "December 18, 1963",
+  "yearsActive": "1987–present",
+  "type": "person",
+  "links": [
+    {
+      "relationship": "starring",
+      "target": "media/movie/ocean11"
+    },
+    {
+      "relationship": "starring",
+      "target": "media/movie/troy"
+    }
+
+  ]
+}

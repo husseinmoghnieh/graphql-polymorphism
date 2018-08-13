@@ -1,0 +1,12 @@
+{
+  "id": "entity/company/planb",
+  "companyName": "Plan B Entertainment",
+  "founded" : 2001,
+  "type": "company",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/movie/troy"
+    }
+  ]
+}

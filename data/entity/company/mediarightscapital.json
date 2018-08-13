@@ -1,0 +1,12 @@
+{
+  "id": "entity/company/mediarightscapital",
+  "companyName": "Media Rights Capital",
+  "founded" : 2008,
+  "type": "company",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/show/houseofcards"
+    }
+  ]
+}

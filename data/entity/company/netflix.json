@@ -1,0 +1,12 @@
+{
+  "id": "entity/company/netflix",
+  "companyName": "Netflix",
+  "founded" : 1997,
+  "type": "company",
+  "links": [
+    {
+      "relationship": "distributed",
+      "target": "media/show/houseofcards"
+    }
+  ]
+}

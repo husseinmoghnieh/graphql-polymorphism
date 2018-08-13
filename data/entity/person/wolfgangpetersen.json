@@ -1,0 +1,13 @@
+{
+  "id": "entity/person/wolfgangpetersen",
+  "name": "Wolfgang Petersen",
+  "dob" : "14 March 1941",
+  "yearsActive" : "1965-present",
+  "type": "person",
+  "links": [
+    {
+      "relationship": "produced",
+      "target": "media/movie/troy"
+    }
+  ]
+}
